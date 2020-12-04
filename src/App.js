@@ -39,7 +39,7 @@ export default () => {
 
       <p>When the pair is in the car without a call they operate as couriers for both ridesharers and goods.</p>
 
-      <p>If a ride is interrupted by a call, the dispatcher </p>
+      <p>If a ride is interrupted by a call, the dispatcher handles rerouting anything in the car.</p>
     </div>
   )
 }
